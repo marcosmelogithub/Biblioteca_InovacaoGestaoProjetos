@@ -3,7 +3,7 @@
 > Framework para gerenciamento ágil de projetos
 
 ---
-<font color="#4169E1" size=5px><b>Componentes do SCRUM</b</font>
+<font color="#4169E1" size=5px><b>Componentes do SCRUM</b></font>
 
 | Pilares | Papéis | Eventos | Artefatos |
 | :-- | :-- | :-- | :-- |
