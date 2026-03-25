@@ -4,7 +4,7 @@
 <font color="#4169E1" size=5px><b>1. Fluxo do DevOps</b></font>
 
 <figure align="center">
-  <img src="imgs/DEVOPS.jpEg" alt="DevOps" width="800">
+  <img src="imgs/DevOps.jpeg" alt="DevOps" width="800">
   <figcaption>Figura 1: Representação do Fluxo do DevOps</figcaption>
 </figure>
 
