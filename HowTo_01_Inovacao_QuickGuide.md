@@ -90,7 +90,8 @@ mindmap
 > 1. Estética
 > 2. Usabilidade
 > 3. Atender uma necessidade real
----
+
+<br>
 
 <figure align="center">
   <img src="imgs/Design_Thinking_Process.jpeg" alt="Design Thinking Process" width="600">

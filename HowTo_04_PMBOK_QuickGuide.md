@@ -67,6 +67,8 @@ timeline
 | Processo 1. Desenvolver o Termo de Abertura do Projeto | Documento que autoriza formalmente a existência do projeto e dá autoridade ao gerente. |
 | Processo 2. Identificar as Partes Interessadas | Identifica pessoas e grupos impactados e documenta seus interesses e influência. |
 
+<br>
+
 | **Grupo 2: Planejamento** | **Criar a EAP (Estrutura Analítica do Projeto), definir o cronograma, orçamento, plano de riscos e de comunicação.** |
 | :--- | :--- |
 | Processo 3. Desenvolver o Plano de Gerenciamento do Projeto | Define como o projeto será executado, monitorado e controlado. |
@@ -94,6 +96,8 @@ timeline
 | Processo 25. Planejar as Aquisições | Documenta as decisões de compras e identifica fornecedores potenciais. |
 | Processo 26. Planejar o Engajamento das Partes Interessadas | Desenvolve estratégias para envolver as partes interessadas de forma eficaz. |
 
+<br>
+
 | **Grupo 3: Execução** | **Gerenciar a equipe, realizar a garantia da qualidade e distribuir informações, coordenando pessoas e recursos para produzir as entregas (deliverables) do projeto.** |
 | :--- | :--- |
 | Processo 27. Orientar e Gerenciar o Trabalho do Projeto | Lidera a execução das atividades definidas no plano. |
@@ -106,6 +110,8 @@ timeline
 | Processo 34. Implementar Respostas aos Riscos | Executa os planos acordados de resposta aos riscos. |
 | Processo 35. Conduzir as Aquisições | Obtém respostas de fornecedores, seleciona e assina contratos. |
 | Processo 36. Gerenciar o Engajamento das Partes Interessadas | Comunica-se e trabalha com stakeholders para atender suas necessidades. |
+
+<br>
 
 | **Grupo 4: Monitoramento e Controle** | **Rastrear, revisar e regular o progresso e o desempenho do projeto, controlando as mudanças, riscos e análise de variância do planejado versus realizado.** |
 | :--- | :--- |
@@ -121,6 +127,8 @@ timeline
 | Processo 46. Monitorar os Riscos | Acompanha riscos identificados e identifica novos riscos. |
 | Processo 47. Controlar as Aquisições | Gerencia relações de aquisição e monitora o desempenho dos contratos. |
 | Processo 48. Monitorar o Engajamento das Partes Interessadas | Monitora relacionamentos e ajusta estratégias de engajamento. |
+
+<br>
 
 | **Grupo 5: Encerramento** | **Obter a aceitação formal do cliente, arquivar documentos, liberar a equipe e registrar as lições aprendidas.** |
 | :--- | :--- |
