@@ -19,7 +19,7 @@
 <font color="blue" size=6px><b>2. O acrônimo de OWASP</b></font>´
 
 |Acrônimo|O que significa|Descrição|
-|:--|:--|:--|
+|:--:|:--|:--|
 |**O**|Open| Tudo o que produzem é gratuito e acessível a qualquer pessoa.|
 |**W**|Web| O foco histórico e principal são aplicações e tecnologias baseadas na web (embora hoje cubram mobile, API e cloud).|
 |**A**|Application| O alvo é a camada de software, não apenas a rede ou o hardware.|
