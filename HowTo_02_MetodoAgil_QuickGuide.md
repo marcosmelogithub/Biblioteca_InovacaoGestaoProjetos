@@ -25,7 +25,7 @@
 
 ### **3. MVP**
 <figure align="center">
-  <img src="imgs/mvp.png" alt="Fluxo Kanban" width="600">
+  <img src="imgs/mvp.png" alt="Fluxo MVP" width="600">
   <figcaption>Figura 3: Representação visual do fluxo básico do MVP.</figcaption>
 </figure>
 
