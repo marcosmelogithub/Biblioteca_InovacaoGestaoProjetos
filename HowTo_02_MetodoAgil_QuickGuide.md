@@ -1,4 +1,13 @@
 # Método Ágil Quick Guide
+
+>**Assuntos abordados nesse Quick Guide**
+>>1. SCRUM
+>>2. KANBAN
+>>3. MVP
+>>4. Hierarquia de trabalho
+>>5. Composição de uma boa User Story
+>>6. Formato de uma User Story e Critérios de Aceitação
+
 ----
 
 
@@ -48,7 +57,7 @@ Uma boa prática é aplicar o acronônimo **INVEST**
 |**S**mal|Deve ter o tamanho que consiga ser completada em uma sprint|
 |**T**estable|Deve ter critérios de aceitação claros que permitam confirmar que está completa|
 
-### 6. Formato de uma User Story e Critérios de Aceitação
+### **6. Formato de uma User Story e Critérios de Aceitação**
 
 >**Estrutura Padrão de uma User Story**
 >> **Como** [tipo de usuário]

@@ -1,6 +1,13 @@
 # GitHub Quick Guide
+
+>**Assuntos abordados nesse Quick Guide**
+>>1. Comandos Git
+>>2. Sequência lógica para um novo repositório
+>>3. Sequência lógica para um repositório existente no github
+>>4. Comandos no terminal do VSCode ou PowerShell
+
 ---
-### 1. Comandos Git
+<font color="#4169E1" size=5px><b>1. Comandos Git</b></font>
 
 **1.1.** Iniciar o controle de versionamento do git
 >**Comando:**
@@ -142,7 +149,7 @@
 
 
 ---
-### 2. Sequência lógica para um novo repositório
+<font color="#4169E1" size=5px><b>2. Sequência lógica para um novo repositório</b></font>
 
 **2.1.** Criar um novo repositório no github
 **2.2.** Criar uma pasta local (de preferência com o mesmo nome do repositório criado)
@@ -160,7 +167,7 @@
 > O repositório local está "*commitado*" no github
 
 ---
-### 3. Sequência lógica para um repositório existente no github
+<font color="#4169E1" size=5px><b>3. Sequência lógica para um repositório existente no github</b></font>
 
 **3.1.** Executar o item 1.10
 > **a)** É bastante recomendado que antes que inicie as manutenções em um repositório, faça um clone do último *commit* para garantir que está partindo de uma posição atualizada
@@ -175,7 +182,7 @@
 > O repositório local está "*commitado*" no github
 **
 ---
-### 4. Comandos no terminal do VSCode ou PowerShell
+<font color="#4169E1" size=5px><b>4. Comandos no terminal do VSCode ou PowerShell</b></font>
 
 **4.1.** Criar uma pasta local
 >**Comando**

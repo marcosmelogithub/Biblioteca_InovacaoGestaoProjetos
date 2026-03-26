@@ -2,8 +2,15 @@
 
 > Framework para gerenciamento ágil de projetos
 
+>**Assuntos abordados nesse Quick Guide**
+>>1. Componentes do SCRUM
+>>2. Os 3 blocos do SCRUM
+>>3. Visão geral do fluxo do SCRUM
+>>4. Definições Táticas
+>>5. SCRUM Master x Product Owner
+
 ---
-<font color="#4169E1" size=5px><b>Componentes do SCRUM</b></font>
+<font color="#4169E1" size=5px><b>1. Componentes do SCRUM</b></font>
 
 | Pilares | Papéis | Eventos | Artefatos |
 | :-- | :-- | :-- | :-- |
@@ -14,7 +21,7 @@
 | | | 5. Sprint Retrospective | |
 
 ---
-<font color="#4169E1" size=5px><b>Os 3 blocos do SCRUM</b></font>
+<font color="#4169E1" size=5px><b>2. Os 3 blocos do SCRUM</b></font>
 
 | Artefatos | Papéis | Cerimônias |
 | :-- | :-- | :-- |
@@ -25,7 +32,6 @@
 
 
 ---
-<font color="#4169E1" size=5px><b>Visão geral do fluxo do SCRUM</b></font>
 
 ```mermaid
 flowchart TD
@@ -58,6 +64,9 @@ flowchart TD
     L-->|NÃO|M[Projeto Encerrado]
 ```
 ---
+
+<font color="#4169E1" size=5px><b>4. Definições Táticas</b></font>
+
 > **Backlog do Produto:**
 >1. Lista ordenada e dinâmica de tudo que é necessário para a entrega do produto
 >2. Contém as funcionalidades, requisitos (história do usuário), melhorias, correções
@@ -66,12 +75,14 @@ flowchart TD
 >5. Os items a serem desenvolvidos são priorizados com os mais importantes e valiosos no topo e que serão os primeiros a serem trabalhados
 >6. Evolui com as reuniões de *Sprint Review* e *Sprint Retrospective*
 
----
+<br>
+
 >**Sprint Planning:** Reunião para definir o objetivo (porquê), priorizar e selecionar os itens do Product Backlog (o quê será entregue), criar o plano de implementação (como)
 >>Participam da Sprint Planning o Product Owner, SCRUM Master, scrum Team envolvido e outros interessados normalmente convidados pelo PO quando e se necessário
 >> A Sprint Planning é que gera o Sprint Backlog que são os itens que serão implementados na sprint
 
----
+<br>
+
 > **Daily:** Uma breve reunião diária de 15 minutos com o *SCRUM Team* com o objetivo de sincronizar, inspecionar o progresso em direção à meta da Sprint e adaptar o backlog da Sprint para criar um plano de ação para o dia seguinte, melhorando a comunicação, a tomada de decisões e a autogestão.
 
         Devem ser respondidas pelo menos 3 questões:
@@ -79,7 +90,8 @@ flowchart TD
             2. O que será realizado hoje?
             3. Existe algum issue ou impedimento?
 
----
+<br>
+
 > **Sprint Review:** reunião realizada ao final da sprint para inspecionar o incremento
 
 | A reunião |  Participantes | Quando e duração |
@@ -92,7 +104,7 @@ flowchart TD
 > **Sprint Retrospective:** reunião realizada ao final da sprint com objetivo de analisar como foi realizada a sprint. identificando o que funcionou, o que não funcionou e o que pode ser melhorado, criando um plano de ação concreto para o próximo Sprint, focando na melhoria contínua
 
 ---
-<font color="#4169E1" size=5px><b>SCRUM Master x Product Owner</b></font>
+<font color="#4169E1" size=5px><b>5. SCRUM Master x Product Owner</b></font>
 
 |SCRUM Master|Product Owner|
 |:--|:--|

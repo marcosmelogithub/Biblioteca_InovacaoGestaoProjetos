@@ -1,12 +1,21 @@
 # PMBOK (Project Management Body of Knowledge) Quick Guide
 
-Guia de melhores práticas, conceitos, processos, ferramentas e técnicas padronizadas para gerenciar projetos, publicado pelo PMI (Project Management Institute), servindo como uma referência mundial para gestores de projetos de qualquer área, independentemente da metodologia (Cascata, Híbrida, Ágil). 
+> ***PMBOK Project Management Body of Knowledge:*** Guia de melhores práticas, conceitos, processos, ferramentas e técnicas padronizadas para gerenciar projetos, publicado pelo PMI (Project Management Institute), servindo como uma referência mundial para gestores de projetos de qualquer área, independentemente da metodologia (Cascata, Híbrida, Ágil).
+
+>**Assuntos abordados nesse Quick Guide**
+>>1. Linha do tempo das principais edições do PMBOK
+>>2. Características das principais edições do PMBOK
+>>3. PMBOK 6: 10 áreas de conhecimento
+>>4. PMBOK 6: Grupo de Processos
+>>5. PMBOK 6: Processos por grupo de processo
 
 <!-- ======================================
      Sessão com a linha do tempo das
      principais edições do PMBOK
 =========================================== -->
 ---
+<font color="#4169E1" size=5px><b>1. Linha do tempo das principais edições do PMBOK</b></font>
+
 ```mermaid
 timeline
     title Linha do tempo das principais edições do PMBOK
@@ -24,6 +33,8 @@ timeline
          : foca na entrega de valor, integrando os princípios da 7ª Edição com processos práticos da 6ª, reintroduzindo cerca de 40 processos e atualizando para práticas modernas como IA, dados e métodos híbridos, com 6 princípios centrais, 7 domínios de desempenho e foco em uma visão holística para alinhar projetos à estratégia organizacional, indo além do escopo, prazo e custo para gerar resultados reais e mensuráveis.                  
 ```
 ----
+<font color="#4169E1" size=5px><b>2. Características das principais edições do PMBOK</b></font>
+
 |Característica|PMBOK 6|PMBOK 7|PMBOK 8|
 |:--|:--|:--|:--|
 |**Abordagem Principal**|Prescritiva: "Como fazer" (Processos)|Baseada em Princípios: "Por que fazer" (Mentalidade)|Integradora: Equilíbrio entre Mindset (Por que) e Execução (Como)|
@@ -35,8 +46,7 @@ timeline
 |**Temas Emergentes**|Menção tímida ao Ágil|Foco total em Híbrido e Ágil|IA Generativa, Governança de Dados e Sustentabilidade (ESG)|
 ---
 
-
-#### PMBOK 6: 10 áreas de conhecimento
+<font color="#4169E1" size=5px><b>3. PMBOK 6: 10 áreas de conhecimento</b></font>
 
 |Área de <br> Conhecimento|Descrição|
 |:--|:--|
@@ -51,7 +61,10 @@ timeline
 |**9. Aquisição**|Comprar ou adquirir produtos, serviços ou resultados externos à equipe do projeto.|
 |**10. StakeHolders**|Identificar as pessoas ou organizações que podem afetar ou ser afetadas pelo projeto, visando gerenciar suas expectativas e engajamento.|
 
-#### PMBOK 6: Grupo de Processos
+---
+
+<font color="#4169E1" size=5px><b>4. PMBOK 6: Grupo de Processos</b></font>
+
 | Grupo de Processos | Descrição |
 | :--- | :--- |
 | **Grupo 1:** Iniciação | Desenvolver e aprovar o Termo de Abertura do Projeto (Project Charter), com seus respectivos stakeholders e obtém a autorização formal para iniciar o projeto ou fase do projeto. |
@@ -60,7 +73,9 @@ timeline
 | **Grupo 4:** Monitoramento e Controle | Rastrear, revisar e regular o progresso e o desempenho do projeto, controlando as mudanças, riscos e análise der variância do planejado versus realizado. |
 | **Grupo 5:** Encerramento | Obter a aceitação formal do cliente, arquivar documentos, liberar a equipe e registrar as lições aprendidas. |
 
-#### PMBOK 6: Processos por grupo de processo
+---
+
+<font color="#4169E1" size=5px><b>5. PMBOK 6: Processos por grupo de processo</b></font>
 
 | **Grupo 1: Iniciação** | **Desenvolver e aprovar o Termo de Abertura do Projeto (Project Charter), com seus respectivos stakeholders e obtém a autorização formal para iniciar o projeto ou fase do projeto.** |
 | :--- | :--- |

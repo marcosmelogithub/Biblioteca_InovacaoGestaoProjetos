@@ -1,4 +1,12 @@
 # DevOps & Azure DevOps Quick Guide
+
+>**Assuntos abordados nesse Quick Guide**
+>>1. Fluxo do DevOps
+>>2. Detalhamento das 8 Fases do Ciclo DevOps
+>>3. Azure DevOps
+>>4. Azure DevOps: Mapeamento de Proprietários vs. Ferramentas
+>>5. Azure DevOps: Do Backlog à Produção
+
 ---
 
 <font color="#4169E1" size=5px><b>1. Fluxo do DevOps</b></font>
@@ -45,7 +53,7 @@
 
 ---
 
-<font color="#4169E1" size=5px><b>4. Mapeamento: Proprietários vs. Ferramentas</b></font>
+<font color="#4169E1" size=5px><b>4. Azure DevOps: Mapeamento de Proprietários vs. Ferramentas</b></font>
 
 |Proprietário (Dono)|Ferramentas Correspondentes|
 |:--|:--|
@@ -74,7 +82,7 @@
 >|Note que a Microsoft possui uma presença massiva, cobrindo desde o planejamento até o monitoramento, especialmente após a aquisição do GitHub.|Muitas ferramentas como Kubernetes e Terraform nasceram dentro de grandes empresas (Google e HashiCorp, respectivamente), mas hoje são mantidas por fundações ou comunidades globais, o que garante maior neutralidade na integração.|Um ponto importante ao escolher ferramentas proprietárias como o Azure DevOps é o Vendor Lock-in. Isso significa que, quanto mais usa funcionalidades exclusivas da Microsoft, mais difícil (e caro) será migrar para outro fornecedor no futuro. Em contrapartida, ferramentas baseadas em padrões abertos (como o Terraform para infraestrutura) permitem que mude de nuvem (da Azure para a AWS, por exemplo) com muito menos esforço.|
 
 ---
-<font color="#4169E1" size=5px><b>Roteiro Sequencial: Do Backlog à Produção no Azure DevOps</b></font>
+<font color="#4169E1" size=5px><b>5. Azure DevOps: Do Backlog à Produção</b></font>
 
 | Ordem | Fase DevOps | Atividade no Azure DevOps | Opção no Azure DevOps | Descrição |Destaques Estratégicos|
 | :--- | :--- | :--- | :--- |:--|:--|
