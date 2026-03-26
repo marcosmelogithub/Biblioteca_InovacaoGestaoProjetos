@@ -10,9 +10,10 @@
 -----
 <font color="blue" size=6px><b>1. O que é OWASP</b></font>´
 
->Fundação sem fins lucrativos que funciona como uma comunidade aberta e colaborativa. Imagine uma "enciclopédia viva" de segurança, onde especialistas do mundo todo compartilham metodologias, ferramentas e documentações gratuitamente.
->
->O diferencial deles é a neutralidade: eles não vendem softwares de segurança, por isso as diretrizes são consideradas o padrão mais honesto e imparcial da indústria. O objetivo principal é ajudar organizações a conceber, desenvolver, adquirir, operar e manter aplicações que possam ser confiadas.
+> - Fundação sem fins lucrativos que funciona como uma comunidade aberta e colaborativa.
+> - Imagine uma "enciclopédia viva" de segurança, onde especialistas do mundo todo compartilham metodologias, ferramentas e documentações gratuitamente.
+> - O diferencial deles é a neutralidade: eles não vendem softwares de segurança, por isso as diretrizes são consideradas o padrão mais honesto e imparcial da indústria.
+> - O objetivo principal é ajudar organizações a conceber, desenvolver, adquirir, operar e manter aplicações que possam ser confiadas.
 
 ----
 <font color="blue" size=6px><b>2. O acrônimo de OWASP</b></font>´
