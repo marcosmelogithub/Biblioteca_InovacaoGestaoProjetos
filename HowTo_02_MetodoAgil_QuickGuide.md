@@ -17,17 +17,23 @@
   <figcaption>Figura 1: Representação visual do fluxo SCRUM.</figcaption>
 </figure>
 
+---
+
 ### **2. KANBAN**
 <figure align="center">
   <img src="imgs/kanban.jpeg" alt="Quadro Kanban" width="600">
   <figcaption>Figura 2: Representação visual do quadro básico do Kanban.</figcaption>
 </figure>
 
+---
+
 ### **3. MVP**
 <figure align="center">
   <img src="imgs/mvp.png" alt="Fluxo MVP" width="600">
   <figcaption>Figura 3: Representação visual do fluxo básico do MVP.</figcaption>
 </figure>
+
+---
 
 ### **4. Hierarquia de trabalho**
 <figure align="center">
@@ -43,6 +49,8 @@
 </figure>
 
 >>>Fonte: [Iniciativas, Épicos, Histórias e Tarefas](https://blog.agile4growth.com.br/scrum/iniciativas-epicos-historias-e-tarefas/)
+
+---
 
 ### **5. Composição de uma boa User Story**
 
@@ -74,4 +82,3 @@ Uma boa prática é aplicar o acronônimo **INVEST**
 >>> - Requisição muda status para "Aprovada"
 >>> - Solicitante recebe notificação por e-mail
 >>> - Histórico registra quem aprovou e quando
-
