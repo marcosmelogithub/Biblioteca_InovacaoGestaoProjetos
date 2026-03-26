@@ -1,14 +1,38 @@
-# OWASP Quick Guide
+# DevSecOps Quick Guide
 
 
 >**Assuntos abordados nesse Quick Guide**
->>1. O que é OWASP
->>2. O acrônimo de OWASP
->>3. OWASP Top 10: Vulnerabilidades Críticas
->>4. Os Pilares de Atuação
->>5. Além do OWASP Top 10
+>>1. O que é DevSecOps 
+>>2. Principais Práticas de Segurança no Desenvolvimento
+>>3. OWASP
+>>4. O acrônimo de OWASP
+>>5. OWASP Top 10: Vulnerabilidades Críticas
+>>6. Os Pilares de Atuação
+>>7. Além do OWASP Top 10
 -----
-<font color="blue" size=6px><b>1. O que é OWASP</b></font>´
+
+<font color="blue" size=6px><b>1. O que é DevSecOps</b></font>
+
+A segurança no desenvolvimento de software (DevSecOps) é a prática de integrar proteções desde a concepção até a manutenção do sistema (SDLC), focando em confidencialidade, integridade e disponibilidade. Envolve modelagem de ameaças, codificação segura, testes contínuos e validação de dados para prevenir vulnerabilidades. 
+
+---
+
+<font color="blue" size=6px><b>2. Principais Práticas de Segurança no Desenvolvimento</b></font>
+
+|Prática|Descrição|
+|:--|:--|
+|SDLC Seguro (Ciclo de Vida)|A segurança não deve ser um pensamento posterior; ela deve ser integrada desde o planejamento, requisitos, design, codificação, testes até a implantação e manutenção.|
+|Validação e Sanitização de Entradas|Essencial para evitar ataques de injeção, como SQL Injection e Cross-Site Scripting (XSS), garantindo que apenas dados seguros sejam processados.|
+|Autenticação e Autorização Fortes|Implementação de mecanismos robustos (ex: OAuth, JWT) e autenticação multifator para verificar identidades e gerenciar permissões de usuário.|
+|Modelagem de Ameaças|Identificar e mitigar potenciais vulnerabilidades durante a fase de design, antecipando-se a ataques.|
+|Testes de Segurança Contínuos|Uso de ferramentas automatizadas (SAST/DAST) para analisar código-fonte e aplicações em tempo de execução, permitindo correção precoce de falhas.|
+|Gestão de Vulnerabilidades|Manter dependências e bibliotecas atualizadas para evitar o uso de componentes conhecidos por terem falhas de segurança.|
+
+>Adoção de padrões como os da OWASP (OWASP) é recomendada para proteger contra os riscos mais comuns e críticos do mercado.
+
+---
+
+<font color="blue" size=6px><b>3. OWASP</b></font>´
 
 > - Fundação sem fins lucrativos que funciona como uma comunidade aberta e colaborativa.
 > - Imagine uma "enciclopédia viva" de segurança, onde especialistas do mundo todo compartilham metodologias, ferramentas e documentações gratuitamente.
@@ -16,7 +40,7 @@
 > - O objetivo principal é ajudar organizações a conceber, desenvolver, adquirir, operar e manter aplicações que possam ser confiadas.
 
 ----
-<font color="blue" size=6px><b>2. O acrônimo de OWASP</b></font>´
+<font color="blue" size=6px><b>4. O acrônimo de OWASP</b></font>´
 
 |Acrônimo|O que significa|Descrição|
 |:--:|:--|:--|
@@ -28,7 +52,7 @@
 
 ----
 
-<font color="blue" size=6px><b>3. OWASP Top 10: Vulnerabilidades Críticas</b></font>
+<font color="blue" size=6px><b>5. OWASP Top 10: Vulnerabilidades Críticas</b></font>
 
 >Padrão ouro para entender as vulnerabilidades mais críticas em aplicações web
 
@@ -47,7 +71,7 @@ A07|Falhas de Identificação|Problemas na confirmação da identidade do usuár
 
 ---
 
-<font color="blue" size=6px><b>4. Os Pilares de Atuação</b></font>
+<font color="blue" size=6px><b>6. Os Pilares de Atuação</b></font>
 
 |Pilar|Descrição|
 |:--|:--|
@@ -56,6 +80,6 @@ A07|Falhas de Identificação|Problemas na confirmação da identidade do usuár
 |Padrões e Documentação|Oferecem guias profundos como o ASVS (Padrão de Verificação de Segurança em Aplicações), que serve como um manual técnico detalhado para auditores e desenvolvedores.|
 
 ---
-<font color="blue" size=6px><b>5. Além do OWASP Top 10</b></font>
+<font color="blue" size=6px><b>7. Além do OWASP Top 10</b></font>
 
 >Embora o "Top 10" seja o projeto mais famoso, o OWASP tem mais de 250 projetos ativos que cobrem desde segurança em Inteligência Artificial até segurança em Internet das Coisas (IoT).
