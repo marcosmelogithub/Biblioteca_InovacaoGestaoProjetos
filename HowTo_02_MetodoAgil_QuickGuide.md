@@ -11,7 +11,8 @@
 ----
 
 
-### **1. SCRUM**
+<font color="blue" size=6px><b>1. SCRUM</b></font>
+
 <figure align="center">
   <img src="imgs/scrum.jpg" alt="Scrum Process" width="600">
   <figcaption>Figura 1: Representação visual do fluxo SCRUM.</figcaption>
@@ -19,7 +20,7 @@
 
 ---
 
-### **2. KANBAN**
+<font color="blue" size=6px><b>2. KANBAN</b></font>
 <figure align="center">
   <img src="imgs/kanban.jpeg" alt="Quadro Kanban" width="600">
   <figcaption>Figura 2: Representação visual do quadro básico do Kanban.</figcaption>
@@ -27,7 +28,7 @@
 
 ---
 
-### **3. MVP**
+<font color="blue" size=6px><b>3. MVP</b></font>
 <figure align="center">
   <img src="imgs/mvp.png" alt="Fluxo MVP" width="600">
   <figcaption>Figura 3: Representação visual do fluxo básico do MVP.</figcaption>
@@ -35,7 +36,7 @@
 
 ---
 
-### **4. Hierarquia de trabalho**
+<font color="blue" size=6px><b>4. Hierarquia de trabalho</b></font>
 <figure align="center">
   <img src="imgs/hierarquia.png" alt="Hierarquia de Trabalho" width="600">
   <figcaption>Figura 3: Representação visual da Hierarquia de Trabalho.</figcaption>
@@ -52,7 +53,7 @@
 
 ---
 
-### **5. Composição de uma boa User Story**
+<font color="blue" size=6px><b>5. Composição de uma boa User Story</b></font>
 
 Uma boa prática é aplicar o acronônimo **INVEST**
 
@@ -65,7 +66,7 @@ Uma boa prática é aplicar o acronônimo **INVEST**
 |**S**mal|Deve ter o tamanho que consiga ser completada em uma sprint|
 |**T**estable|Deve ter critérios de aceitação claros que permitam confirmar que está completa|
 
-### **6. Formato de uma User Story e Critérios de Aceitação**
+<font color="blue" size=6px><b>6. Formato de uma User Story e Critérios de Aceitação</b></font>
 
 >**Estrutura Padrão de uma User Story**
 >> **Como** [tipo de usuário]
